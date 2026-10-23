@@ -7,12 +7,13 @@ The project combines traffic-light control, ultrasonic vehicle detection, pedest
 ---
 
 
+## 📸 Project Overview
+
+![System Overview](images/system-overview.png)
 
 ### Detailed System Diagram
 
-![Project Infographic](images/Adaptive-Traffic-Intersection-Controller
-)
-
+![Project Infographic](images/project-infographic.png)
 ---
 
 ## ✨ Features
